@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+body{
+   font-family: 'PT Sans', sans-serif;
+    font-size: 17px;
+    line-height: 1.5;
+}                   /**
+                             * Side bar
+                             */
+.sidebar{
+    background: #667A44;
+    padding: 0px;
+}
+.content{
+    background: #E6E6FA;
+    min-height: 600px;
+}
+.header>div.col-md-9>.navbar-text{
+    float: right;
+    font-size: 17px;
+    line-height: 25px;
+    
+}
+ #p{
+     float: right;
+     margin-top: 0px;
+ }
+.header{
+    padding-bottom: 10px;
+    padding-top: 0px;
+}
+.sidebar>ul{
+    margin: 15px 20px;
+    height: 100%;
+}
+.sidebar>ul>li{
+    margin: 10px 0px;
+}
+.col-md-9 content>.text{
+    display:100%;
+    
+}
+.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav>li a {
+    -webkit-transition: 0.4s;
+    -os-transition:0.4s;
+    transition: 0.4s;
+    color:  azure;
+    
+}
+.nav>li>a:hover{
+    padding-left: 35px;
+     background-color: #FFFFC0;
+    color:black;
+}
+.content{
+    height: 100%;
+    min-height: 600px;
+}
+.nav-pills>li>a {
+  border-radius: 2px;
+    
+}
+.content>div.row>.btn{
+    float: right;
+}
+.again{
+    background-color:darkslateblue;
+    text-align: center;
+    font-size: 30px;
+    color: lightcyan;
+    height: 170px;
+    
+}
+h3{
+    font-weight:bold;
+}
+h2{
+    font-weight:bolder;
+}
