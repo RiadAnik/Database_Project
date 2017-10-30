@@ -3,8 +3,7 @@ require_once 'core.inc.php';
 require_once 'connect.inc.php';
 if(empty($_SESSION['user_id'])){
         header('Location:verticalnavbar.php');
-    
-    //unset($_SESSION['loggedin']);
+  
 } 
 ?>
 <html lang="en">
