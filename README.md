@@ -1,11 +1,19 @@
-## IT_MART
+# IT_MART
 
 An Invoice Management System for an IT shop.It has three portion.
 
 
 ### 1. Admin-portion : 
 The owner can only access this part.He can add or remove salesman,see the detailed dashboard and discard an invalid order.
-2
+
+
+### 2. Customer-portion :
+Every customer can visit this site ans can see the product picture and their prices. 
+
+
+### 3. Sales-portion :
+This site is for creating the invoice both for sales section and repair section.This is accessed by the person who is responsible do the respective work.He can also add,delete,update required data.
+
 
 ## Getting Started
 
