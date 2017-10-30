@@ -21,29 +21,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Install a local server (xampp or wamp)
 
-```
-Give examples
-```
+### Copy the project
 
-### Installing
+#####1.
+Copy all the file except project.sql to your server or localhost.
 
-A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
+#####2.
+Create a database and import the project.sql to the database.
 
-```
-Give the example
-```
 
-And repeat
+#####3.
+Change the connect.php file as your database modification.
 
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo
+
+#####4.
+Internet connection is required.
+
+
 
 ## Running the tests
 
