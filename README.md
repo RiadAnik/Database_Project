@@ -25,21 +25,24 @@ Install a local server (xampp or wamp)
 
 ### Copy the project
 
-1.
-Copy all the file except project.sql to your server or localhost.
+
+1.Copy all the file except project.sql to your server or localhost.
 
 
-2.
-Create a database and import the project.sql to the database.
+2.Create a database and import the project.sql to the database.
 
 
-3.
-Change the connect.php file as your database modification.
+3.Change the connect.php file as your database modification.
 
 
+4.Internet connection is required.
 
-4.
-Internet connection is required.
+
+## Main Features
+
+IT_MART is a virtual it shop in web. It is a web based sofrware to grow one's own it company in web. It acts as a cashier of one's store and has a also a official website for customers.
+
+The design of the website has been kept as simple as possible so that users can easily understand all the features easily and use it simply.
 
 
 ## License
