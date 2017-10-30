@@ -3,7 +3,7 @@
 An Invoice Management System for an IT shop.It has three portion.
 
 
-# 1. Admin-portion : 
+### 1. Admin-portion : 
 The owner can only access this part.He can add or remove salesman,see the detailed dashboard and discard an invalid order.
 2
 
