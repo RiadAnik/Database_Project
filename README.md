@@ -1,6 +1,6 @@
 # IT_MART
 
-An Invoice Management System for an IT shop.It has three portion.
+An Invoice Management System for an IT shop who has 2 sections . One is sales section and another is repair section . It has three portion.
 
 
 ### 1. Admin-portion : 
