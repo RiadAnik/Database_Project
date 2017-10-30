@@ -1,0 +1,116 @@
+header {
+    background-color:#1A200E;
+    color:white;
+    text-align:center;
+    padding:5px;	 
+}
+
+.cat{
+     cursor: pointer;    
+        font-weight:bold;
+    }
+  .submit {
+/*    width: 100px;*/
+/*height: 100px;*/
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;
+  }
+ .submit :hover{
+         width: 120px;
+    }
+.sub{
+    -webkit-transition: width 2s,height 3s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s,height 3s;
+}
+.sub :hover{
+         width: 200px;
+      height:30px;
+    }
+page_links
+ {
+  font-family: arial, verdana;
+  font-size: 12px;
+  border:1px #000000 solid;
+  padding: 6px;
+  margin: 3px;
+  background-color: #cccccc;
+  text-decoration: none;
+ }
+a:hover {
+	color: #000;
+    background-color:#667A44 ;
+	font-size:1.1em;
+	font-weight:600;
+	font-family:arial, helvetica, sans-serif;
+    text-decoration: none;
+	}
+.button {
+background-color: #1A200E;
+    border:solid 2px #FFFFC0;
+    border-top:0;
+    border-bottom:0;
+    display:inline-block;
+    color:#fff;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size:11px;
+    font-weight:bold;
+    line-height:30px;
+    text-decoration:none;
+    padding:0 3px;
+}
+
+
+ #page_a_link
+ {
+  font-family: arial, verdana;
+  font-size: 12px;
+  border:1px #000000 solid;
+  color: #ff0000;
+  background-color: #cccccc;
+  padding: 6px;
+  margin: 3px;
+  text-decoration: none;
+ }
+.pagination {
+    background: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+nav {
+    line-height:30px;
+    background-color:#667A44;
+height: 1000px;
+     width:120px;
+    float:left;
+    padding:5px;	      
+}
+section {
+    margin-top: auto;
+    width:650px;
+
+    float:left;
+    height: auto;
+ 
+    padding:10px;
+/*     background-color: #FFFFC0;*/
+}
+footer {
+    background-color:#1A200E;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+.table{
+    width: 800px;
+    height: 300px;
+     margin-left: 180px;
+}
+.right{
+     width:350px;
+    height: 200px;
+    float:right;
+    padding:10px;
+}
