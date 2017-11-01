@@ -12,6 +12,8 @@ The owner can only access this part.He can add or remove salesman,see the detail
 
 ### 2. Customer-portion :
 Every customer can visit this site ans can see the product picture and their prices. 
+![customer2](https://user-images.githubusercontent.com/21199518/32275631-31103118-bf36-11e7-97c9-7be0dd1074c4.JPG)
+![customer](https://user-images.githubusercontent.com/21199518/32275647-3f1301a0-bf36-11e7-967b-56ca39d78af2.JPG)
 
 
 ### 3. Sales-portion :
