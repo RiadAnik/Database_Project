@@ -5,6 +5,9 @@ An Invoice Management System for an IT shop who has 2 sections . One is sales se
 
 ### 1. Admin-portion : 
 The owner can only access this part.He can add or remove salesman,see the detailed dashboard and discard an invalid order.
+![admin](https://user-images.githubusercontent.com/21199518/32275404-51ba7e7e-bf35-11e7-923c-847c597b33ed.JPG)
+![admin dash](https://user-images.githubusercontent.com/21199518/32275417-5f2b45ac-bf35-11e7-8311-cd5ed7a67343.JPG)
+![admin2](https://user-images.githubusercontent.com/21199518/32275519-b857592c-bf35-11e7-852c-9db2c541505c.JPG)
 
 
 ### 2. Customer-portion :
