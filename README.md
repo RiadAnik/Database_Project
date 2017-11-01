@@ -18,7 +18,11 @@ Every customer can visit this site ans can see the product picture and their pri
 
 ### 3. Sales-portion :
 This site is for creating the invoice both for sales section and repair section.This is accessed by the person who is responsible do the respective work.He can also add,delete,update required data.
-
+![mainpage](https://user-images.githubusercontent.com/21199518/32275763-b0610ff0-bf36-11e7-9468-45a245d3abdc.JPG)
+![mainsales](https://user-images.githubusercontent.com/21199518/32275792-c4eef05e-bf36-11e7-9d86-86377c35f7e1.JPG)
+![slalesportion](https://user-images.githubusercontent.com/21199518/32275718-89e61460-bf36-11e7-9499-5ab14fce1b35.JPG)
+![repair section](https://user-images.githubusercontent.com/21199518/32275815-d544127c-bf36-11e7-9e0a-ac6e98f50936.JPG)
+![invoice](https://user-images.githubusercontent.com/21199518/32275831-e47363a6-bf36-11e7-89a0-b0adbdec9bcb.JPG)
 
 ## Getting Started
 
